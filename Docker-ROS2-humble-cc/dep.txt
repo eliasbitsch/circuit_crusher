@@ -1,0 +1,11 @@
+    ros-humble-teleop-twist-keyboard ros-humble-teleop-twist-joy \
+    ros-humble-amcl ros-humble-angles ros-humble-base-local-planner ros-humble-clear-costmap-recovery ros-humble-global-planner* \
+    ros-humble-costmap-2d ros-humble-diagnostic-updater ros-humble-hls-lfcd-lds-driver ros-humble-interactive-markers \
+    ros-humble-joint-state-publisher ros-humble-kdl-parser ros-humble-laser-geometry ros-humble-map-msgs \
+    ros-humble-map-server ros-humble-move-base ros-humble-move-base-msgs ros-humble-nav-core ros-humble-navfn \
+    ros-humble-robot-state-publisher ros-humble-rotate-recovery ros-humble-dwa-local-planner* \
+    ros-humble-tf ros-humble-tf2 ros-humble-tf2-geometry-msgs ros-humble-tf2-kdl ros-humble-tf2-msgs ros-humble-tf2-py \
+    ros-humble-tf2-ros \
+    ros-humble-urdf ros-humble-voxel-grid ros-humble-xacro \
+    ros-humble-rosdoc-lite ros-humble-gmapping ros-humble-rqt*\
+    ros-humble-controller-manager ros-humble-moveit ros-humble-moveit-visual-tools ros-humble-ros-controllers \
